@@ -1,0 +1,57 @@
+.intro{
+	font-size: 50px;
+	text-align: center;
+	margin:0;
+	padding: 0;
+}
+
+.mainNav {
+	text-align: right;
+	margin: 0;
+	padding: 0;
+}
+ul {
+	list-style-type: none;
+	text-align: right
+}
+.body {
+	background-color:white;
+	background-image: url(../img/treeheartedit);
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
+}
+footer {
+	text-align: right;
+}
+#pic {
+	height: 20vh;
+	float: left;
+}
+#resume {
+	list-style-type: none;
+	width: 145px
+}
+#resume:hover{
+	background-color: antiquewhite;
+}
+.homebtn{
+	width:76px
+	}
+.homebtn:hover{
+	background-color: antiquewhite;
+}
+#p1{
+	float: right;
+	background-color:white
+}
+#p2{
+	background-color: white;
+}
+.contactmebtn:hover{
+	background-color: antiquewhite;
+}
+#submitbtn:hover{
+	background-color: antiquewhite
+}
